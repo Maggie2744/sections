@@ -22,12 +22,10 @@ body {
 main {
   /* Box Model */
   max-width: 25em;
-  display: block;
 }
 
 img {
   /* Box Model */
-  display: block;
   max-width: 25em;
   /* Visual Decoration */
   /* Typography */
