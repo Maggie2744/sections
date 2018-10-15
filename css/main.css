@@ -1,0 +1,33 @@
+html {
+  /* Box Model */
+  box-sizing: border-box;
+  display: inline-block;
+  /* Visual Decoration */
+  background-color: #eee9de;
+  /* Typography */
+  font-family: 'Lato', sans-serif;
+  line-height: 1.5;
+  color: #333;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+main {
+  /* Box Model */
+  max-width: 25em;
+  display: block;
+}
+
+img {
+  /* Box Model */
+  display: block;
+  max-width: 25em;
+  /* Visual Decoration */
+  /* Typography */
+}
+
+/* Box Model */
+/* Visual Decoration */
+/* Typography */
