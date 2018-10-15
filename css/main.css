@@ -15,22 +15,10 @@ html {
 }
 
 body {
+  display: inline-block;
+  box-sizing: border-box;
   vertical-align: middle;
   text-align: center;
-}
-
-main {
-  /* Box Model */
+  min-height: 10em;
   max-width: 25em;
 }
-
-img {
-  /* Box Model */
-  max-width: 25em;
-  /* Visual Decoration */
-  /* Typography */
-}
-
-/* Box Model */
-/* Visual Decoration */
-/* Typography */
