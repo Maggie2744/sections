@@ -17,8 +17,24 @@ html {
 body {
   display: inline-block;
   box-sizing: border-box;
-  vertical-align: middle;
-  text-align: center;
   min-height: 10em;
   max-width: 25em;
+}
+
+img {
+  display: inline-block;
+  text-align: center;
+  min-width: 20em;
+}
+
+main {
+  display: inline-block;
+  text-align: left;
+  max-width: 20em;
+}
+
+footer {
+  display: inline-block;
+  text-align: left;
+  max-width: 20em;
 }
