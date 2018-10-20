@@ -15,7 +15,6 @@ html {
 }
 
 body {
-  display: inline-block;
   box-sizing: border-box;
   min-height: 10em;
   max-width: 25em;
@@ -38,4 +37,6 @@ footer {
   display: inline-block;
   text-align: left;
   max-width: 20em;
+  border: 2px solid black;
+  padding: 0.5em;
 }
