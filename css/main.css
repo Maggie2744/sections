@@ -16,14 +16,13 @@ body {
   min-height: 10em;
   max-width: 25em;
   vertical-align: middle;
-  margin: inherit;
+  margin: auto;
 }
 
 img {
-  display: flex;
+  display: block;
   text-align: center;
-  min-width: 20em;
-  max-width: 25em;
+  width: 25em;
 }
 
 main {
@@ -45,4 +44,8 @@ footer:hover {
   background-color: #666;
   border: 2px solid #666;
   color: white;
+}
+
+.btn {
+
 }
