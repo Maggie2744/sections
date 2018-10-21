@@ -20,7 +20,7 @@ body {
 }
 
 img {
-  display: block;
+  display: inline-block;
   text-align: center;
   width: 25em;
 }
