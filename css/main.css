@@ -36,7 +36,7 @@ button {
   text-align: left;
   max-width: 25em;
   border: 2px solid #333;
-  padding: 1em;
+  padding: .75em;
   border-radius: 8px;
   background-color: #eee9de;
   font-family: "Lato", sans-serif;
