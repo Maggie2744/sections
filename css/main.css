@@ -22,7 +22,8 @@ body {
 img {
   display: inline-block;
   text-align: center;
-  width: 25em;
+  width: 100%;
+  max-width: 25em;
 }
 
 main {
