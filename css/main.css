@@ -1,10 +1,7 @@
 html {
-  /* Box Model */
   box-sizing: border-box;
   display: inline-block;
-  /* Visual Decoration */
   background-color: #eee9de;
-  /* Typography */
   font-family: 'Lato', sans-serif;
   line-height: 1.5;
   color: #333;
@@ -40,4 +37,5 @@ footer {
   max-width: 25em;
   border: 2px solid black;
   padding: 0.5em;
+  border-radius: 8px;
 }
