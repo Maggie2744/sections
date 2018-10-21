@@ -16,10 +16,11 @@ body {
   min-height: 10em;
   max-width: 25em;
   vertical-align: middle;
+  margin: inherit;
 }
 
 img {
-  display: inline-block;
+  display: flex;
   text-align: center;
   min-width: 20em;
   max-width: 25em;
