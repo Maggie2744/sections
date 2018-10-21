@@ -4,6 +4,7 @@ html {
   font-family: "Lato", sans-serif;
   line-height: 1.5;
   color: #333;
+  vertical-align: middle;
 }
 
 *, *::before, *::after {
@@ -13,7 +14,6 @@ html {
 body {
   min-height: 10em;
   max-width: 25em;
-  vertical-align: middle;
   margin: 1.5rem;
 }
 
@@ -25,7 +25,7 @@ img {
 }
 
 div {
-  text-align: left;
+  display: inline-block;
   max-width: 25em;
 }
 
