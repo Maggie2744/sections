@@ -25,18 +25,19 @@ img {
   display: inline-block;
   text-align: center;
   min-width: 20em;
+  max-width: 25em;
 }
 
 main {
   display: inline-block;
   text-align: left;
-  max-width: 20em;
+  max-width: 25em;
 }
 
 footer {
   display: inline-block;
   text-align: left;
-  max-width: 20em;
+  max-width: 25em;
   border: 2px solid black;
   padding: 0.5em;
 }
