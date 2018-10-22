@@ -58,3 +58,8 @@ button:hover {
 div {
   vertical-align: middle;
 }
+
+section {
+  text-align: center;
+  vertical-align: middle;
+}
