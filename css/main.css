@@ -4,7 +4,6 @@ html {
   font-family: "Lato", sans-serif;
   line-height: 1.5;
   color: #333;
-  vertical-align: center;
 }
 
 *, *::before, *::after {
@@ -15,10 +14,11 @@ body {
   min-height: 10em;
   max-width: 25em;
   margin: 1.5rem;
+  vertical-align: middle;
 }
 
 img {
-  display: inline-block;
+  display: block;
   text-align: center;
   width: 100%;
   max-width: 25em;
