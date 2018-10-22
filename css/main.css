@@ -14,20 +14,9 @@ html {
 body {
   min-height: 10em;
   max-width: 25em;
-  margin: 1.5rem;
+  padding: .4em .75em .5em;
   vertical-align: middle;
-}
-
-img {
-  display: block;
-  text-align: center;
-  width: 100%;
-  max-width: 25em;
-}
-
-div {
-  display: inline-block;
-  max-width: 25em;
+  margin: auto;
 }
 
 .btn {
@@ -46,4 +35,16 @@ button:hover {
   background-color: #666;
   border: 2px solid #666;
   color: white;
+}
+
+.text {
+  display: inline-block;
+  max-width: 25em;
+}
+
+.img {
+  display: inline-block;
+  max-width: 25em;
+  text-align: center;
+  width: 100%;
 }
