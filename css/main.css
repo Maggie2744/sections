@@ -4,7 +4,6 @@ html {
   font-family: "Lato", sans-serif;
   line-height: 1.5;
   color: #333;
-  vertical-align: middle;
 }
 
 *, *::before, *::after {
@@ -29,7 +28,7 @@ div {
   max-width: 25em;
 }
 
-button {
+.btn {
   text-align: left;
   max-width: 25em;
   border: 2px solid #333;
