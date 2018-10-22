@@ -13,11 +13,6 @@ html {
 
 body {
   display: inline;
-  min-height: 10em;
-  max-width: 25em;
-  padding: .4em .75em .5em;
-  vertical-align: middle;
-  margin: auto;
 }
 
 .btn {
@@ -51,6 +46,7 @@ button:hover {
   max-width: 25em;
   margin: 1.5rem;
   padding: 1em;
+  width: 100%;
 }
 
 div {
