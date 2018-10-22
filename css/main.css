@@ -4,7 +4,6 @@ html {
   font-family: "Lato", sans-serif;
   line-height: 1.5;
   color: #333;
-  display: inline-block;
 }
 
 *, *::before, *::after {
@@ -12,26 +11,23 @@ html {
 }
 
 body {
-  display: inline;
-  padding: .4em .75em .5em;
   text-align: center;
   margin: 0;
 }
 
 .btn {
   display: inline-block;
+  text-decoration: none;
   text-align: left;
-  max-width: 25em;
   border: 2px solid #333;
-  padding: .75em;
+  padding: .4em .75em .5em;
   border-radius: 8px;
   background-color: #eee9de;
   font-family: "Lato", sans-serif;
   color: #333;
-  font-size: 1em;
 }
 
-button:hover {
+.btn:hover {
   background-color: #666;
   border: 2px solid #666;
   color: white;
@@ -58,6 +54,8 @@ div {
 
 section {
   vertical-align: middle;
+  padding-top: 2em;
+  padding-bottom: 2em;
 }
 
 img {
