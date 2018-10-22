@@ -58,11 +58,13 @@ div {
 
 section {
   vertical-align: middle;
-  padding-top: 2em;
-  padding-bottom: 2em;
 }
 
 img {
   display: block;
   width: 100%;
+}
+
+h2 {
+  margin: 0;
 }
