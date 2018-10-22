@@ -18,6 +18,7 @@ body {
 }
 
 .btn {
+  display: inline-block;
   text-align: left;
   max-width: 25em;
   border: 2px solid #333;
@@ -55,8 +56,9 @@ div {
 }
 
 section {
-  text-align: center;
   vertical-align: middle;
+  padding-top: 2em;
+  padding-bottom: 2em;
 }
 
 img {
