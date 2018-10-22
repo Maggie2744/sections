@@ -15,6 +15,7 @@ body {
   display: inline;
   padding: .4em .75em .5em;
   text-align: center;
+  margin: 0;
 }
 
 .btn {
