@@ -17,7 +17,7 @@ body {
   max-width: 25em;
   padding: .4em .75em .5em;
   text-align: center;
-  margin: auto;
+  margin: 1.5rem;
 }
 
 .btn {
@@ -41,7 +41,7 @@ button:hover {
 .img {
   display: inline-block;
   max-width: 25em;
-  text-align: center;
+  text-align: left;
   width: 100%;
   padding: 1em;
 }
@@ -49,9 +49,9 @@ button:hover {
 .text {
   display: inline-block;
   max-width: 25em;
-  padding: 1em;
   width: 100%;
   text-align: left;
+  padding: 1em;
 }
 
 div {
