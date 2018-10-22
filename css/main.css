@@ -13,6 +13,11 @@ html {
 
 body {
   display: inline;
+  min-height: 10em;
+  max-width: 25em;
+  padding: .4em .75em .5em;
+  text-align: center;
+  margin: auto;
 }
 
 .btn {
@@ -47,6 +52,7 @@ button:hover {
   margin: 1.5rem;
   padding: 1em;
   width: 100%;
+  text-align: left;
 }
 
 div {
